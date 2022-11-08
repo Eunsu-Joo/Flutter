@@ -1,0 +1,6 @@
+package com.example.contacct
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
